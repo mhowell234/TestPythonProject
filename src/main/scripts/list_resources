@@ -1,0 +1,5 @@
+#!/usr/bin/env python3
+
+from list_cloudformation_resources import list_resources
+
+list_resources()
